@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>icons/1151197.png</file>
+        <file>icons/images (1).jfif</file>
+        <file>icons/images (2).jfif</file>
+        <file>icons/images (3).jfif</file>
+        <file>icons/images (4).jfif</file>
+        <file>icons/images (5).jfif</file>
+        <file>icons/images.jfif</file>
+        <file>icons/png-clipart-oxygen-refit-edit-redo-blue-arrow-icon-illustration-thumbnail.png</file>
+        <file>icons/cut-file-623413.webp</file>
+        <file>icons/382.png</file>
+        <file>icons/information-icon-ual-blue-hq-vers-1-062311-png-10.png</file>
+    </qresource>
+</RCC>
